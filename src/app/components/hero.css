@@ -3,8 +3,9 @@ body, html {
     padding: 0;
     box-sizing: border-box;
     overflow-x: hidden;
-    background:var(--bg-color)  }
-  
+    background-color: #1D0115;
+    
+}
   section {
     padding: 100px 7%;
   }

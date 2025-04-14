@@ -3,7 +3,7 @@ import { useEffect } from "react";
 import { FaFacebookSquare, FaWhatsapp } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa6";
 import Image from "next/image";
-import example from "../../public/aaa.png";
+import example from "../../../public/aaa.png";
 import "./hero.css";
 const Hero = () => {
   const whatsappNumber = "923320405516"; // Define the whatsappNumber variable

@@ -19,7 +19,7 @@ function Header() {
   return (
     <header className={`header ${isOpen ? "open" : ""}`}>
       <div className="logo">
-        <span>ALISHBA </span>Web Developer
+        <span >ALISHBA </span>Web Developer
       </div>
       <ul className={`navlist ${isOpen ? "open" : ""}`}>
         <li>

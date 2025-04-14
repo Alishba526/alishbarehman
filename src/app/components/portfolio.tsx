@@ -1,14 +1,14 @@
 import "./portfolio.css";
 import Link from "next/link";
-import agency from "../../public/alis.jpg";
-import pro1 from "../../public/pro1.jpg";
-import pro2 from "../../public/pro2.jpg";
-import eco from "../../public/e-commer1.jpg";
-import blog from "../../public/blog1.jpg";
+import agency from "../../../public/alis.jpg";
+import pro1 from "../../../public/pro1.jpg";
+import pro2 from "../../../public/pro2.jpg";
+import eco from "../../../public/e-commer1.jpg";
+import blog from "../../../public/blog1.jpg";
 
-import e from "../../public/e-.jpg";
-import cof from "../../public/cof.jpg";
-import onlinehtoh from "../../../src/public/pro3.jpg";
+import e from "../../../public/e-.jpg";
+import cof from "../../../public/cof.jpg";
+import onlinehtoh from "../../../public/onlinehtoh.png";
 import Image from "next/image";
 import { FaExternalLinkAlt } from "react-icons/fa";
 

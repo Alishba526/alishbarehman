@@ -1,6 +1,6 @@
 
 import Image from "next/image";
-import about from "../../public/aboutme.png";
+import about from "../../../public/aboutme.png";
 import "./about.css";
 function About() {
   return (

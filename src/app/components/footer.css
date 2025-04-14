@@ -1,5 +1,5 @@
 footer{
-    background:var(aqua) ;
+    background: rgb(--bg-color);
     color: aqua;
     height: 50px;
     display: flex;
@@ -24,5 +24,5 @@ footer p {
 }
 
 .back-to-top:hover {
-  color:white ;
+  color:rgb(8, 4, 4) ;
 }
