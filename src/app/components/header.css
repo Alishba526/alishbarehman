@@ -11,9 +11,9 @@
 :root {
     --text-color: #dcc7c7;
     --hover-color: #12f7ff;
-    --bg-color: #1D0115;
+/*     --bg-color: #1D0115; */
     --secon-bg-color: #292e33;
-    /* background-color: #1D0115; */
+    background-color: #1D0115;
 
     --big-font: 2.5rem;
     --norma-font: 2rem;
