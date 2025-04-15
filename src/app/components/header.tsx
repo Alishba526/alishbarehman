@@ -3,8 +3,7 @@
 "use client";
 import { useState } from "react";
 import { MdMenu } from "react-icons/md";
-import "../components/header.css";
-
+import "./header.css";
 function Header() {
   const [isOpen, setIsOpen] = useState(false);
 
